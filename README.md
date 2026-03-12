@@ -39,15 +39,16 @@ A lightweight, interactive web-based puzzle game where users reassemble scramble
 # ⚙️ Installation & Setup
 No complex installation is required. This is a frontend-only project.
 
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
    git clone [https://github.com/raymondoyondi/Image-Puzzle-Game.git](https://github.com/raymondoyondi/Image-Puzzle-Game.git)
 
-2. Navigate to the folder:
+2. **Navigate to the folder:**
    ```bash
    cd Image-Puzzle-Game
  
-3. Launch:
+3. **Launch:**
+
 Simply open index.html in your preferred web browser.
 
 # 🤝 Contributing
